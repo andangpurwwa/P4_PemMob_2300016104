@@ -1,0 +1,17 @@
+# Flutter & Dart ignore rules
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+
+# IDE files
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
